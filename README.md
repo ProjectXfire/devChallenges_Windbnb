@@ -1,3 +1,60 @@
+<!-- Please update value in the {}  -->
+
+<h1 align="center">Windbnb Project</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+This project show a list of properties, with theirs descriptions.
+You can filters properties by location & numbers of guests. In the top there is a search icon that you can click in it and it will open a menu, you can select the location and guests, then click in search.
+If you want to clean the search only click in the button clean. To close the menu only click in the cross icon or in the opaque screen that is below.
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [React](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD) was to build an application to complete the given user stories.
+
+## How To Use --------------->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
